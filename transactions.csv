@@ -1,0 +1,5 @@
+timestamp,action,product_id,product_name,quantity,details
+2025-06-19 01:24:47,ADD,PH001,Tata Salt 1kg,5,
+2025-06-19 01:25:08,ADD,DG004,Yoga for Beginners,1,
+2025-06-19 01:26:14,UPDATE,PH001,Tata Salt 1kg,10,Previous quantity: 5
+2025-06-19 01:27:07,REMOVE,DG004,Yoga for Beginners,1,

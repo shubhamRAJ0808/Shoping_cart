@@ -1,0 +1,74 @@
+[
+  {
+    "type": "physical",
+    "product_id": "001A",
+    "name": "Tata Salt 1kg",
+    "price": 28.0,
+    "quantity_available": 90,
+    "weight": 1.0
+  },
+  {
+    "type": "physical",
+    "product_id": "002A",
+    "name": "Amul Butter 100g",
+    "price": 50.0,
+    "quantity_available": 50,
+    "weight": 0.1
+  },
+  {
+    "type": "physical",
+    "product_id": "003A",
+    "name": "Parle-G Biscuits 100g",
+    "price": 10.0,
+    "quantity_available": 200,
+    "weight": 0.1
+  },
+  {
+    "type": "physical",
+    "product_id": "004A",
+    "name": "Maggi Noodles 70g",
+    "price": 12.0,
+    "quantity_available": 150,
+    "weight": 0.07
+  },
+  {
+    "type": "physical",
+    "product_id": "005A",
+    "name": "Dettol Soap 75g",
+    "price": 35.0,
+    "quantity_available": 80,
+    "weight": 0.075
+  },
+  {
+    "type": "digital",
+    "product_id": "006A",
+    "name": "Bollywood Movie - Sholay",
+    "price": 99.0,
+    "quantity_available": 1000,
+    "download_link": "https://store.example.com/download/sholay"
+  },
+  {
+    "type": "digital",
+    "product_id": "007A",
+    "name": "Hindi Learning Course",
+    "price": 799.0,
+    "quantity_available": 500,
+    "download_link": "https://courses.example.com/hindi-basic"
+  },
+  {
+    "type": "digital",
+    "product_id": "008A",
+    "name": "Indian Classical Music Collection",
+    "price": 249.0,
+    "quantity_available": 300,
+    "download_link": "https://music.example.com/classical-indian"
+  },
+  {
+    "type": "digital",
+    "product_id": "009A",
+    "name": "Yoga for Beginners",
+    "price": 499.0,
+    "quantity_available": 200,
+    "download_link": "https://fitness.example.com/yoga-course"
+  }
+]
