@@ -3,3 +3,13 @@ timestamp,action,product_id,product_name,quantity,details
 2025-06-19 01:25:08,ADD,DG004,Yoga for Beginners,1,
 2025-06-19 01:26:14,UPDATE,PH001,Tata Salt 1kg,10,Previous quantity: 5
 2025-06-19 01:27:07,REMOVE,DG004,Yoga for Beginners,1,
+2025-06-19 02:33:10,ADD,008A,Indian Classical Music Collection,2,
+2025-06-19 02:33:33,ADD,009A,Yoga for Beginners,1,
+2025-06-19 02:33:47,ADD,002A,Amul Butter 100g,8,
+2025-06-19 02:34:46,UPDATE,002A,Amul Butter 100g,15,Previous quantity: 8
+2025-06-19 02:35:04,REMOVE,008A,Indian Classical Music Collection,2,
+2025-06-19 23:41:37,ADD,002A,Amul Butter 100g,5,
+2025-06-19 23:41:57,ADD,005A,Dettol Soap 75g,8,
+2025-06-19 23:42:13,ADD,009A,Yoga for Beginners,10,
+2025-06-20 00:07:52,ADD,001A,Tata Salt 1kg,5,
+2025-06-20 00:08:13,ADD,002A,Amul Butter 100g,12,

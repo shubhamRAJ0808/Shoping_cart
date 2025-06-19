@@ -4,7 +4,7 @@
     "product_id": "001A",
     "name": "Tata Salt 1kg",
     "price": 28.0,
-    "quantity_available": 90,
+    "quantity_available": 85,
     "weight": 1.0
   },
   {
@@ -12,7 +12,7 @@
     "product_id": "002A",
     "name": "Amul Butter 100g",
     "price": 50.0,
-    "quantity_available": 50,
+    "quantity_available": 18,
     "weight": 0.1
   },
   {
@@ -36,7 +36,7 @@
     "product_id": "005A",
     "name": "Dettol Soap 75g",
     "price": 35.0,
-    "quantity_available": 80,
+    "quantity_available": 72,
     "weight": 0.075
   },
   {
@@ -68,7 +68,7 @@
     "product_id": "009A",
     "name": "Yoga for Beginners",
     "price": 499.0,
-    "quantity_available": 200,
+    "quantity_available": 189,
     "download_link": "https://fitness.example.com/yoga-course"
   }
 ]
